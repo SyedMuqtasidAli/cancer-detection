@@ -67,6 +67,7 @@ For any questions or suggestions, feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/syed-muqtasid-ali-91a0a623a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/SyedMuqtasidAli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muqtasid5266@gmail.com)
 
 ## Socials 🌐
 
@@ -74,6 +75,7 @@ Stay connected and follow for more updates:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/syed-muqtasid-ali-91a0a623a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/SyedMuqtasidAli)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muqtasid5266@gmail.com)
 
 ---
 
